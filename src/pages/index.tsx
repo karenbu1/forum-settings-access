@@ -1,7 +1,7 @@
 import * as React from 'react';
 
 const Page = () =>  (
-  <h1>Oops, you've hit a deadend.</h1>
+  <h1>You'll be redirected momentarily.</h1>
 );
 
 export default Page;
