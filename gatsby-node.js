@@ -6,7 +6,7 @@ exports.createPages = async ({ graphql, actions }) => {
 
   createRedirect({
     fromPath: '/',
-    toPath: 'https://training.bootuppd.org',
+    toPath: 'https://training.bootuppd.org/login/index.php',
     redirectInBrowser: true,
     isPermanent: true,
     force: true
