@@ -29,6 +29,7 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-remove-fingerprints`,
+    `gatsby-plugin-gatsby-cloud`,
     {
       resolve: "gatsby-plugin-google-tagmanager",
       options: {
@@ -37,8 +38,6 @@ module.exports = {
     },
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
-    `gatsby-plugin-catch-links`,
-    `gatsby-plugin-force-trailing-slashes`,
     {
       resolve: "gatsby-plugin-react-svg",
       options: {
