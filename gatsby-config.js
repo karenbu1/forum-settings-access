@@ -29,7 +29,6 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-remove-fingerprints`,
-    `gatsby-plugin-netlify`,
     {
       resolve: "gatsby-plugin-google-tagmanager",
       options: {
